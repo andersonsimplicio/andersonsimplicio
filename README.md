@@ -38,4 +38,6 @@ Atualmente, busco aprimorar meus conhecimentos na área de Inteligência Computa
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsimplicio&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsimplicio&layout=compact&langs_count=16&theme=slateorange&show_icons=true"/>
 </div>
-
+<div>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonsimplicio/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+</div>
