@@ -1,4 +1,4 @@
-bout_content: |
+about_content: |
   Sou Pós-Graduado em <strong>Ciência de Dados e Big Data</strong> pela Pontifícia Universidade Católica de Minas Gerais. 
   Tecnologo em <strong>Sistemas para Internet</strong> pelo Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas.
   Possuo experiência em programação back-end com framework Django e algumas atividades com Aprendizado de Máquina e ciência de dados.
