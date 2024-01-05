@@ -3,13 +3,13 @@ Atualmente, busco aprimorar meus conhecimentos na área de Inteligência Computa
 - 👨‍💻 Todos os meus projetos estão em [https://andersonsimplicio.github.io/works/](https://andersonsimplicio.github.io/works/)
   
 <i class="fas fa-book" style="color:#3499cd" ></i> <strong>Meus estudos</strong>:
-<br/>
+
 <img height="23em" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <i class="fab fa-linux" style="color:black;"></i> 
 <img height="23em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img height="23em" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img height="23em" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-<br/>
+
 <i style="color:#3499cd;" class="fab fa-python"></i> 
 <img height="23em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" >
 <img height="23em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" >
