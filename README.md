@@ -36,6 +36,6 @@ Atualmente, busco aprimorar meus conhecimentos na área de Inteligência Computa
 </p>
 <div>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsimplicio&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsimplicio&layout=compact&langs_count=16&theme=merko"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsimplicio&layout=compact&langs_count=16&theme=slateorange&show_icons=true"/>
 </div>
 
