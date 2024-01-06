@@ -43,8 +43,5 @@ Atualmente, busco aprimorar meus conhecimentos na área de Inteligência Computa
 </div>
 <div>
   <hr>
-  ## Certificados
-<div style="display: flex;">
-  <img src="https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg" style="width: 50%; margin-right: 5px;">
-  <img src="https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg" style="width: 50%;">
-</div>
+  ##Certificados
+
