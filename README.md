@@ -42,7 +42,8 @@ Atualmente, busco aprimorar meus conhecimentos na área de Inteligência Computa
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonsimplicio/andersonsimplicio/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
 <div>
+  <hr>
   # Certificados
 <div>
-(https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg)https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg)
+  <img src="https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg)https://github.com/andersonsimplicio/andersonsimplicio/blob/main/img/django00.jpeg">
 </div>
