@@ -1,4 +1,6 @@
-Sou desenvolvedor back-end com experiência na construção de aplicações web e APIs REST utilizando Python e Django. Possuo formação em Sistemas para Internet, pós-graduação em Desenvolvimento Web/Mobile e pós-graduação em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais.
+Sou desenvolvedor back-end com experiência na construção de aplicações web e APIs REST utilizando Python e Django.
+
+Possuo formação em Sistemas para Internet, pós-graduação em Desenvolvimento Web/Mobile e pós-graduação em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais.
 
 Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot, com foco em desenvolvimento de APIs, arquitetura de aplicações, bancos de dados, testes e boas práticas de engenharia de software. Também venho ampliando minha experiência em Docker, CI/CD e computação em nuvem.
 
