@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Anderson Simplicio
+# 💻 Anderson Simplicio
 
 ## 💻 Sobre mim
 
