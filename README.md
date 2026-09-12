@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 
-Sou **desenvolvedor back-end** com experiência na construção de aplicações web e APIs REST utilizando **Python e Django**.
+Sou **desenvolvedor back-end** com conhecimentos na construção de aplicações web e APIs REST utilizando **Python e Django**.
 
 Possuo formação em **Sistemas para Internet**, pós-graduação em **Desenvolvimento Web/Mobile** e pós-graduação em **Ciência de Dados e Big Data** pela Pontifícia Universidade Católica de Minas Gerais.
 
