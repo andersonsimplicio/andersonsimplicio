@@ -1,3 +1,6 @@
+👋 Olá, eu sou Anderson Simplicio
+💻 Sobre mim
+
 Sou desenvolvedor back-end com experiência na construção de aplicações web e APIs REST utilizando Python e Django.
 
 Possuo formação em Sistemas para Internet, pós-graduação em Desenvolvimento Web/Mobile e pós-graduação em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais.
@@ -7,6 +10,42 @@ Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot, com foc
 Minha formação em Ciência de Dados e experiência com Aprendizado de Máquina complementam minha atuação em desenvolvimento de software, permitindo trabalhar na integração entre sistemas, dados e aplicações inteligentes.
 
 Tenho interesse em desenvolver soluções back-end robustas, escaláveis e bem estruturadas, utilizando diferentes tecnologias de acordo com as necessidades de cada projeto.
+
+🛠️ Tecnologias e conhecimentos
+Backend
+Python
+Django
+Django REST Framework
+Java
+Spring Boot
+APIs REST
+Banco de Dados
+PostgreSQL
+SQL
+Modelagem de dados
+ORM / JPA
+DevOps e Infraestrutura
+Linux
+Git / GitHub
+Docker
+Nginx
+CI/CD
+Computação em nuvem
+Dados e Inteligência Artificial
+Ciência de Dados
+Aprendizado de Máquina
+Python para análise de dados
+Machine Learning
+🎓 Formação
+<div> <strong>Pós-graduação em Ciência de Dados e Big Data</strong><br> <em>Pontifícia Universidade Católica de Minas Gerais — PUC Minas</em> </div> <br> <div> <strong>Pós-graduação em Desenvolvimento Web/Mobile</strong><br> <em>Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas — IF Sudeste MG</em> </div> <br> <div> <strong>Tecnólogo em Sistemas para Internet</strong><br> <em>Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas — IF Sudeste MG</em> </div>
+🚀 Atualmente estudando
+Java
+Spring Boot
+Arquitetura e boas práticas de desenvolvimento back-end
+Testes automatizados
+Docker
+CI/CD
+Computação em nuvem
 - 👨‍💻 Todos os meus projetos estão em [https://andersonsimplicio.github.io/works/](https://andersonsimplicio.github.io/works/)
   
 <i class="fas fa-book" style="color:#3499cd" ></i> <strong>Meus estudos</strong>:
