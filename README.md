@@ -1,6 +1,10 @@
-Sou **pós-graduado** em **Ciência de Dados e Big Data** pela Pontifícia Universidade Católica de Minas Gerais, além de tecnólogo em Sistemas para Internet e **pós-graduado** em **Desenvolvimento Web/Mobile** pelo Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas. Tenho experiência em programação **back-end** com o framework **Django**, bem como em algumas atividades relacionadas a **Aprendizado de Máquina** e **Ciência de Dados**. Atualmente, busco aprimorar meus conhecimentos na área de **Inteligência Computacional**, com o objetivo de desenvolver sistemas **web/mobile** integrados a aplicações de **Machine Learning**. 
+Sou desenvolvedor back-end com experiência na construção de aplicações web e APIs REST utilizando Python e Django. Possuo formação em Sistemas para Internet, pós-graduação em Desenvolvimento Web/Mobile e pós-graduação em Ciência de Dados e Big Data pela Pontifícia Universidade Católica de Minas Gerais.
 
-Essa formação diversificada e experiência prática refletem meu compromisso com o desenvolvimento tecnológico e a capacidade de enfrentar desafios complexos na interseção entre programação, dados e aprendizado de máquina. Estou ansioso para aplicar essas habilidades em projetos inovadores que demandem uma abordagem holística e integrada.
+Atualmente, estou aprofundando meus conhecimentos em Java e Spring Boot, com foco em desenvolvimento de APIs, arquitetura de aplicações, bancos de dados, testes e boas práticas de engenharia de software. Também venho ampliando minha experiência em Docker, CI/CD e computação em nuvem.
+
+Minha formação em Ciência de Dados e experiência com Aprendizado de Máquina complementam minha atuação em desenvolvimento de software, permitindo trabalhar na integração entre sistemas, dados e aplicações inteligentes.
+
+Tenho interesse em desenvolver soluções back-end robustas, escaláveis e bem estruturadas, utilizando diferentes tecnologias de acordo com as necessidades de cada projeto.
 - 👨‍💻 Todos os meus projetos estão em [https://andersonsimplicio.github.io/works/](https://andersonsimplicio.github.io/works/)
   
 <i class="fas fa-book" style="color:#3499cd" ></i> <strong>Meus estudos</strong>:
