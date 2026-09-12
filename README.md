@@ -23,7 +23,7 @@ Tenho interesse em desenvolver soluções back-end **robustas, escaláveis e bem
 - **Django REST Framework**
 - **Java**
 - **Spring Boot**
-- APIs REST
+- **APIs REST
 
 ### Banco de Dados
 
@@ -72,7 +72,7 @@ Tenho interesse em desenvolver soluções back-end **robustas, escaláveis e bem
 - **Docker**
 - **CI/CD**
 - Computação em nuvem
-- 👨‍💻 Todos os meus projetos estão em [https://andersonsimplicio.github.io/works/](https://andersonsimplicio.github.io/works/)
+
   
 <i class="fas fa-book" style="color:#3499cd" ></i> <strong>Meus estudos</strong>:
 <br>
