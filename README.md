@@ -28,18 +28,16 @@ Tenho interesse em desenvolver soluções back-end **robustas, escaláveis e bem
 ### Banco de Dados
 
 - **PostgreSQL**
-- SQL
-- Modelagem de dados
-- ORM / JPA
+- **SQL**
+- **Modelagem de dados**
+- **ORM**
 
 ### DevOps e Infraestrutura
 
 - **Linux**
 - **Git / GitHub**
-- **Docker**
-- Nginx
-- CI/CD
-- Computação em nuvem
+- **Nginx**
+
 
 ### Dados e Inteligência Artificial
 
@@ -71,7 +69,7 @@ Tenho interesse em desenvolver soluções back-end **robustas, escaláveis e bem
 - Testes automatizados
 - **Docker**
 - **CI/CD**
-- Computação em nuvem
+- **Computação em nuvem**
 
   
 <i class="fas fa-book" style="color:#3499cd" ></i> <strong>Meus estudos</strong>:
