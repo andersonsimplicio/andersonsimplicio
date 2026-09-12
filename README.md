@@ -23,7 +23,7 @@ Tenho interesse em desenvolver soluções back-end **robustas, escaláveis e bem
 - **Django REST Framework**
 - **Java**
 - **Spring Boot**
-- **APIs REST
+- **APIs REST**
 
 ### Banco de Dados
 
